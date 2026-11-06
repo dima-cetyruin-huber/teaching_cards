@@ -1,0 +1,26 @@
+[
+  {
+    "id": "card_01",
+    "term": "Polymorphism",
+    "level": 3,
+    "last_day": 1
+  },
+  {
+    "id": "card_02",
+    "term": "Encapsulation",
+    "level": 1,
+    "last_day": 4
+  },
+  {
+    "id": "card_03",
+    "term": "Inheritance",
+    "level": 2,
+    "last_day": 2
+  },
+  {
+    "id": "card_04",
+    "term": "Abstraction",
+    "level": 4,
+    "last_day": 5
+  }
+]

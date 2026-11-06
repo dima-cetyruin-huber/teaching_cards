@@ -1,0 +1,5 @@
+Очередь повторения на день 5
+========================================
+ID: card_01 | Термин: Polymorphism
+ID: card_03 | Термин: Inheritance
+ID: card_02 | Термин: Encapsulation
